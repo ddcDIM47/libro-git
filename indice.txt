@@ -2,4 +2,7 @@
  - Capítulo 2:Flujo de trabajo básico 
  - Capítulo 3:Gestión de ramas
  - Capítulo 4:Repositorios remotos
+<<<<<<< HEAD
  - Capitulo 5:Conceptos avanzados
+=======
+>>>>>>> 7fd99e5d276e3ba30c93334fc10b3776d45f69d9
